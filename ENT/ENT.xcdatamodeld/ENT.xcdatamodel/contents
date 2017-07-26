@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16A313a" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="RusHistory" representedClassName="RusHistory" syncable="YES" codeGenerationType="class">
+        <attribute name="a" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="b" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="d" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="e" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="question" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="RusHistory" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
